@@ -92,23 +92,26 @@ width: 100%
 }
 .html{
 	border:1px solid #9A9AA9;
-	width:83,333333%;
+	width:80%;
 	background: #9A9AA9;
 	margin: 10px;
+	color:white;
 }
 
 .css{
 	border:1px solid #9A9AA9;
-	width:83,333333%;
+	width:60%;
 	background: #9A9AA9;
 	margin: 10px;
+	color:white;
 }
 
 .js{
 	border:1px solid #9A9AA9 ;
-	width:83,333333%;
+	width:40%;
 	background: #9A9AA9;
 	margin: 10px;
+	color:white;
 }
 
 p{
